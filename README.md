@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthMalekar16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ParthMalekar16/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ParthMalekar16/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ParthMalekar16/LeetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthMalekar16/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
