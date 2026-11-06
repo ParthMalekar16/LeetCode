@@ -6,6 +6,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthMalekar16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ParthMalekar16/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ParthMalekar16/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ParthMalekar16/LeetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -94,4 +95,13 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
