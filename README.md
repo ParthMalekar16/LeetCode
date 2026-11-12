@@ -9,6 +9,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ParthMalekar16/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ParthMalekar16/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ParthMalekar16/LeetCode/tree/master/3665-twisted-mirror-path-count) |
