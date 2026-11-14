@@ -10,6 +10,7 @@
 | [1882-process-tasks-using-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ParthMalekar16/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ParthMalekar16/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ParthMalekar16/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ParthMalekar16/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ParthMalekar16/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
