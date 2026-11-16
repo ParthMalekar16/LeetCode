@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ParthMalekar16/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ParthMalekar16/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ParthMalekar16/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ParthMalekar16/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -152,4 +153,8 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ParthMalekar16/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ParthMalekar16/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ParthMalekar16/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
