@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParthMalekar16/LeetCode/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ParthMalekar16/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1267-count-servers-that-communicate](https://github.com/ParthMalekar16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthMalekar16/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -117,6 +118,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParthMalekar16/LeetCode/tree/master/0001-two-sum) |
 | [2747-count-zero-request-servers](https://github.com/ParthMalekar16/LeetCode/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
